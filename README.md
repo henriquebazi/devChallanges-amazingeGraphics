@@ -1,79 +1,43 @@
-<br />
+<h1 align="center">
+<img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png">
+Amazing Graphics
+</h1>
 <p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png" alt="Logo" width="250" height="150">
-  </a>
-
-  <h3 align="center">Amazing Graph</h3>
-
-  <p align="center">
-    Landing page to create amazing graphics
-       <br />
-    <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
-    ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
-  </p>
+  Landing page para criar gráficos incríveis
 </p>
 
 
+---
 
-# Welcome :)
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
+## 📝 Sobre
 
-# Challenge
-Your challenge is to build a landing page about a website that create graphics.<br><br>
-Seu desafio é criar uma página sobre um site de criação de gráficos.
-
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/cb82a7069f698bde3bafb4ea20316951/mockuper_(1)_(1).png" width="380" height="380">
-
-# Techs: 
-HTML<br>
-CSS
-
-# Getting start:
-1 - Use this template or download this repository with the starter code<br>
-2 - Read the instructions in readme.md<br>
-3 - Start coding!<br>
-4 - Share your results with the community :)<br>
-<br>
-1 - Use esse template ou baixe esse repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar!<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
+Desafio proposto no [devChalleng](https://www.devchallenge.com.br/challenges/5ed47992adee277fae224a0b/details) para colocar em prática os conhecimentos adquiridos alongo dos meus estudos.
 
 
-# Requirements:
-- Your page should get it looking as close to the design as possible<br>
-- Your page should be responsive<br>
-<br>
+<img align="center" src="https://camo.githubusercontent.com/bc20095b91ab30bc8042f431efb9797cb3d9881eee7754ecb3610a3c84101fc3/68747470733a2f2f7472656c6c6f2d6174746163686d656e74732e73332e616d617a6f6e6177732e636f6d2f3539306661376635613861623031356430636638383035322f3539306661383936643264323565353035383364653632302f63623832613730363966363938626465336261666234656132303331363935312f6d6f636b757065725f2831295f2831292e706e67" width="380" height="380">
 
-- Sua página deve se parecer o mais próximo possível do design<br>
-- Sua página deve ser responsiva<br>
+<img align="center" src="https://camo.githubusercontent.com/d6f592a1daec2321aa524f48eb8460dafc249f2b3a64283d3b4d65c34b9b0d8f/68747470733a2f2f7472656c6c6f2d6174746163686d656e74732e73332e616d617a6f6e6177732e636f6d2f3539306661376635613861623031356430636638383035322f3539306661383936643264323565353035383364653632302f32353566316430346261663032663765383138633665346563333664646464662f6465736b746f702e706e67">
 
+---
 
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/255f1d04baf02f7e818c6e4ec36ddddf/desktop.png" width="380" height="380">
+## 🚀 Tecnologias utilizadas
 
+- HTML
+- CSS
+  - flexbox
+  - grid
+  - media query
 
-Feel free to use any workflow you are comfortable with :)
+---
 
-# Colors:
-Orange: #D2872C<br>
-Gray: #766F68
+# 📂 Como baixar o projeto
 
-# Design:
-Design available in `./design` path<br>
-Images available in `./assets` path<br>
-<br>
-Modelo disponível na pasta `./design`<br>
-Imagens disponíveis na pasta `./assets`<br>
+```bash
+  # Clonar o repositório
+  $ git clone  https://github.com/henriquebazi/devChallenge-amazingeGraphics
 
-# Font family:
-- Roboto
+  # Entrar no diretório
+  $ cd amazingeGraphics
+```
 
-# Share!
-Initialize your project with this template in your github as a public repository<br>
-Capture a screenshot, gif or video and share your result in Linkedin<br>
-Send me a feedback in  <a href="https://www.linkedin.com/in/lorenagmontes/">Linkedin</a>!<br>
-
-Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+Desenvolvido por Henrique Bazi.
